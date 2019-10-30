@@ -9,7 +9,7 @@ http://ibillxia.github.io/blog/2013/05/22/audio-signal-processing-time-domain-Vo
 
 ## 端点检测
 
-**4 端点检测（End-Point Detection，EPD）的目标是要决定信号的语音开始和结束的位置，所以又可以称为Speech Detection或Voice Activity Detection（VAD）。 端点检测在语音预处理中扮演着一个非常重要的角色。常见的端点检测方法大致可以分为如下两类:**
+**端点检测（End-Point Detection，EPD）的目标是要决定信号的语音开始和结束的位置，所以又可以称为Speech Detection或Voice Activity Detection（VAD）。 端点检测在语音预处理中扮演着一个非常重要的角色。常见的端点检测方法大致可以分为如下两类:**
 * 时域（Time Domain）的方法：计算量比较小，因此比较容易移植到计算能力较差的嵌入式平台
 * acc:  accepted condition
 * good: good condition
